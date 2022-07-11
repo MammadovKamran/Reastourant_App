@@ -1,0 +1,142 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Product 1",
+      "price": 10,
+      "description": "This is a product description"
+    },
+    {
+      "id": 2,
+      "name": "Product 2",
+      "price": 20,
+      "description": "This is a product description"
+    },
+    {
+      "id": 3,
+      "name": "Product 3",
+      "price": 30,
+      "description": "This is a product description"
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "price": 40,
+      "description": "This is a product description"
+    },
+    {
+      "id": 5,
+      "name": "Product 5",
+      "price": 50,
+      "description": "This is a product description"
+    },
+    {
+      "id": 6,
+      "name": "Product 6",
+      "price": 60,
+      "description": "This is a product description"
+    },
+    {
+      "id": 7,
+      "name": "Product 7",
+      "price": 70,
+      "description": "This is a product description"
+    },
+    {
+      "id": 8,
+      "name": "Product 8",
+      "price": 80,
+      "description": "This is a product description"
+    },
+    {
+      "id": 9,
+      "name": "Product 9",
+      "price": 90,
+      "description": "This is a product description"
+    }
+  ],
+  "waiters": [
+    {
+      "id": 1,
+      "name": "Waiter 1"
+    },
+    {
+      "id": 2,
+      "name": "Waiter 2"
+    },
+    {
+      "id": 3,
+      "name": "Waiter 3"
+    },
+    {
+      "id": 4,
+      "name": "Waiter 4"
+    },
+    {
+      "id": 5,
+      "name": "Waiter 5"
+    },
+    {
+      "id": 6,
+      "name": "Waiter 6"
+    },
+    {
+      "id": 7,
+      "name": "Waiter 7"
+    },
+    {
+      "id": 8,
+      "name": "Waiter 8"
+    },
+    {
+      "id": 9,
+      "name": "Waiter 9"
+    },
+    {
+      "id": 10,
+      "name": "Waiter 10"
+    }
+  ],
+  "orders": [
+    {
+      "id": 1,
+      "name": "Kamran",
+      "order": "Pizza",
+      "price": 20,
+      "quantity": 1,
+      "total": 20,
+      "table": 1,
+      "date": "2020-01-01"
+    },
+    {
+      "id": 2,
+      "name": "Nail",
+      "order": "Burger",
+      "price": 10,
+      "quantity": 2,
+      "total": 20,
+      "table": 2,
+      "date": "2020-03-01"
+    },
+    {
+      "id": 3,
+      "name": "Ibrahim",
+      "order": "Pizza",
+      "price": 20,
+      "quantity": 1,
+      "total": 20,
+      "table": 3,
+      "date": "2020-01-02"
+    },
+    {
+      "name": "Waiter 8",
+      "table": "8",
+      "order": "Product 5",
+      "price": 50,
+      "quantity": "10",
+      "total": 500,
+      "date": "2022-7-11 16:56:48",
+      "id": 4
+    }
+  ]
+}
